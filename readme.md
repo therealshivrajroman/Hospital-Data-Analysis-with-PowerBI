@@ -8,7 +8,8 @@ By visualizing complex data, the dashboard empowers hospital administrators and 
 ---
 
 ## 2. Dashboard Preview
-<img width="994" height="715" alt="image" src="https://github.com/user-attachments/assets/e0acc80d-2393-495d-8c7d-9f09cf8cb736" />
+<img width="1153" height="821" alt="image" src="https://github.com/user-attachments/assets/46173f4b-1a63-4a30-ba3b-3653832868ec" />
+
   
 Here is a snapshot of the main dashboard interface, showcasing key metrics and interactive filters.
 
