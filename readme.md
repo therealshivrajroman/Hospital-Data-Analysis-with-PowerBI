@@ -8,7 +8,8 @@ By visualizing complex data, the dashboard empowers hospital administrators and 
 ---
 
 ## 2. Dashboard Preview
-*(Insert dashboard preview image here)*  
+<img width="994" height="715" alt="image" src="https://github.com/user-attachments/assets/e0acc80d-2393-495d-8c7d-9f09cf8cb736" />
+  
 Here is a snapshot of the main dashboard interface, showcasing key metrics and interactive filters.
 
 ---
@@ -84,6 +85,6 @@ The dataset covers Jan 2018 – Dec 2020 and includes anonymized patient admissi
 ---
 
 ## 📌 Author
-Created by **[Your Name]**  
+Created by **SHIVRAJ ROMAN**  
 For more projects, visit my portfolio: [SHIVRAJ QAQC Portfolio](https://therealshivrajroman.github.io/SHIVRAJ_QAQC/)
 
