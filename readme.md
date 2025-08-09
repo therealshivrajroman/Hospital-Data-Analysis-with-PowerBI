@@ -87,5 +87,5 @@ The dataset covers Jan 2018 – Dec 2020 and includes anonymized patient admissi
 
 ## 📌 Author
 Created by **SHIVRAJ ROMAN**  
-For more projects, visit my portfolio: [SHIVRAJ QAQC Portfolio](https://therealshivrajroman.github.io/SHIVRAJ_QAQC/)
+For more projects, visit my portfolio: [SHIVRAJ DATA Portfolio](https://therealshivrajroman.github.io/Shivraj_Portfolio/)
 
